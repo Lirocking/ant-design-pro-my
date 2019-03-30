@@ -1,0 +1,7602 @@
+[
+  {
+    "deptname": "T188生产",
+    "areaname": "T188",
+    "terminalAdd": "05052770",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "05052770",
+    "terminal_name": "05052770"
+  },
+  {
+    "deptname": "T188生产",
+    "areaname": "T188",
+    "terminalAdd": "09550005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09550005",
+    "terminal_name": "09550005"
+  },
+  {
+    "deptname": "T188生产",
+    "areaname": "T188",
+    "terminalAdd": "09550006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "mbus水表集中器(宁光)",
+    "terminal_name": "mbus水表集中器(宁光)"
+  },
+  {
+    "deptname": "lora水表演示",
+    "areaname": "宁光Lora水表",
+    "terminalAdd": "0473005F",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "lora演示",
+    "areaname": "重庆Lora",
+    "terminalAdd": "0951000E",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "0951000E",
+    "terminal_name": "0951000E"
+  },
+  {
+    "deptname": "中卫演示NB",
+    "areaname": "某某某小区",
+    "terminalAdd": "03077676",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "中源水务公司同心分公司",
+    "areaname": "同盛伊和园",
+    "terminalAdd": "09511D68",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09517528",
+    "terminal_name": "09517528"
+  },
+  {
+    "deptname": "中源水务公司同心分公司",
+    "areaname": "同盛伊和园",
+    "terminalAdd": "09510461",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09510461",
+    "terminal_name": "09510461"
+  },
+  {
+    "deptname": "中源水务公司同心分公司",
+    "areaname": "同盛伊和园",
+    "terminalAdd": "09530005",
+    "expectnum": 12,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "中铁水务公司",
+    "areaname": "中铁",
+    "terminalAdd": "01137845",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068712",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068725",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068711",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068724",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068710",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "乌海吴昕合同",
+    "areaname": "乌海",
+    "terminalAdd": "01068726",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "兰州自来水公司",
+    "areaname": "兰州试挂区",
+    "terminalAdd": "09360001",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09360001",
+    "terminal_name": "09360001"
+  },
+  {
+    "deptname": "冰河新区黑壳子集中器",
+    "areaname": "系统室黑壳子",
+    "terminalAdd": "05051978",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "05051978",
+    "terminal_name": "05051978"
+  },
+  {
+    "deptname": "冰河新区黑壳子集中器",
+    "areaname": "系统室黑壳子",
+    "terminalAdd": "05052389",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "05052389",
+    "terminal_name": "05052389"
+  },
+  {
+    "deptname": "北京西路",
+    "areaname": "调试48-30",
+    "terminalAdd": "80012443",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "北京西路",
+    "areaname": "调试48-30",
+    "terminalAdd": "80012448",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "北京西路",
+    "areaname": "调试48-30",
+    "terminalAdd": "80012532",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "12220001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "36000040",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "36000025",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "36000034",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "01090003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "01090002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为气表测试",
+    "areaname": "nb气表",
+    "terminalAdd": "01090001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156090",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156107",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "01145281",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156087",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156096",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "12001814",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "11111116",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156085",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "01145286",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "12001818",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "12001832",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "50156092",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "01145279",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "华为测试",
+    "areaname": "华为nb水表测试",
+    "terminalAdd": "00008888",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "和林格尔县自来水公司",
+    "areaname": "文化小区",
+    "terminalAdd": "04710015",
+    "expectnum": 29,
+    "actualnum": 30,
+    "sucessrate": 103.45,
+    "terminalName": "04710015",
+    "terminal_name": "04710015"
+  },
+  {
+    "deptname": "哈尔滨",
+    "areaname": "哈尔滨小区",
+    "terminalAdd": "02043806",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈尔滨",
+    "areaname": "哈尔滨小区",
+    "terminalAdd": "11284176",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈尔滨",
+    "areaname": "哈尔滨小区",
+    "terminalAdd": "02043802",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈尔滨",
+    "areaname": "哈尔滨小区",
+    "terminalAdd": "02043804",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈纳斯",
+    "areaname": "系统室测试表",
+    "terminalAdd": "03077658",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈纳斯",
+    "areaname": "系统室测试表",
+    "terminalAdd": "36000024",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "哈纳斯",
+    "areaname": "系统室测试表",
+    "terminalAdd": "12110201",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040022",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040021",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040027",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040026",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040025",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040023",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "四川",
+    "areaname": "南溪供排水",
+    "terminalAdd": "05040024",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11150002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11880003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02210002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01240003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01240004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01310001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11120001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11660002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "56789987",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02016802",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "18100024",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02210001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12123456",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12260001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12260026",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12270027",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "17553162",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11880004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11120002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "56789944",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01120004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50161390",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11208422",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11168421",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02191345",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "触摸按键超声波水表",
+    "terminalAdd": "03250116",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "触摸按键超声波水表",
+    "terminalAdd": "03250168",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11121200",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11880006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11120942",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01310002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "12280921",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01160001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50161378",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11131235",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12121313",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12050301",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11770003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "03116802",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "18100025",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50156094",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "04290030",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11131234",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11130013",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01120003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12071500",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50161380",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01316801",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50161375",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "22200072",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "11080002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01120001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "17553161",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "大口径NB-IoT水表",
+    "terminalAdd": "03260326",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "12290930",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01240001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01240002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02200001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11056816",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11121207",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11050002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "02190001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务",
+    "terminalAdd": "18100022",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11660009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11136666",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "03270001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "50161374",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11770001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11262608",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "01120002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "触摸按键超声波水表",
+    "terminalAdd": "03250325",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11880001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11880005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光_长城水务公司",
+    "areaname": "长城水务超声波表测试",
+    "terminalAdd": "11770002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光仪表NB",
+    "areaname": "宁光NB",
+    "terminalAdd": "05170018",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光仪表NB",
+    "areaname": "宁光NB",
+    "terminalAdd": "05040001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光仪表NB",
+    "areaname": "宁光NB",
+    "terminalAdd": "05170019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光仪表演示（LoRa）",
+    "areaname": "Lora水表演示",
+    "terminalAdd": "09510458",
+    "expectnum": 6,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "测试",
+    "terminal_name": "测试"
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "09030301",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "工艺部",
+    "terminalAdd": "12150000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "09030303",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制高挂表_电信",
+    "terminalAdd": "50172885",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "电信-",
+    "terminalAdd": "51090627",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "03000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制高挂表_电信",
+    "terminalAdd": "50172884",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制高挂表_电信",
+    "terminalAdd": "50172886",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "电信-",
+    "terminalAdd": "51090669",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "移动-",
+    "terminalAdd": "51090682",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "移动-",
+    "terminalAdd": "51090684",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制高挂表_电信",
+    "terminalAdd": "50172887",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "09030304",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "工艺部",
+    "terminalAdd": "12150001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "09030302",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光工艺部",
+    "areaname": "王龙龙试制",
+    "terminalAdd": "12290601",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "宁光测试",
+    "areaname": "测试室",
+    "terminalAdd": "09590002",
+    "expectnum": 5,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "马岩",
+    "terminal_name": "马岩"
+  },
+  {
+    "deptname": "山东滨州燃气公司",
+    "areaname": "系统室测试一区",
+    "terminalAdd": "51090697",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "山东滨州燃气公司",
+    "areaname": "系统室测试一区",
+    "terminalAdd": "02180001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "山东滨州燃气公司",
+    "areaname": "系统室测试一区",
+    "terminalAdd": "01100403",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "山西省长治市黎城县",
+    "areaname": "天海自来水有限公司",
+    "terminalAdd": "03550001",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制_移动",
+    "terminalAdd": "50170488",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162392",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50170576",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162394",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制_移动",
+    "terminalAdd": "50170484",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制_移动",
+    "terminalAdd": "50170469",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162391",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162399",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162396",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162390",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50170578",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50170575",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50170574",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50156098",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制_移动",
+    "terminalAdd": "50170470",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50170577",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162393",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162397",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162398",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "于伟试制",
+    "terminalAdd": "50156097",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50156106",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "工艺部nb水表",
+    "areaname": "16XNX水表",
+    "terminalAdd": "50162395",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "广西三江",
+    "areaname": "易安五期",
+    "terminalAdd": "07720011",
+    "expectnum": 1645,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "7-14栋",
+    "terminal_name": "7-14栋"
+  },
+  {
+    "deptname": "惠山区华清创意园",
+    "areaname": "惠山",
+    "terminalAdd": "01108534",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "惠山区华清创意园",
+    "areaname": "惠山",
+    "terminalAdd": "01108535",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "惠山区华清创意园",
+    "areaname": "惠山",
+    "terminalAdd": "01108533",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "惠山区华清创意园",
+    "areaname": "惠山",
+    "terminalAdd": "01108536",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000027",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000036",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000037",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "祥瑞花园",
+    "terminalAdd": "11151002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "舜天嘉园",
+    "terminalAdd": "00000010",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000038",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000042",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000045",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000010",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000015",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000022",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000028",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000035",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000039",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000044",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "祥瑞花园",
+    "terminalAdd": "12060000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "试制",
+    "terminalAdd": "03080203",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000041",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000048",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000049",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "祥瑞花园",
+    "terminalAdd": "11151003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "祥瑞花园",
+    "terminalAdd": "11151001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000011",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000013",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000014",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000020",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000021",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000030",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000031",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000032",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000046",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000047",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "试制",
+    "terminalAdd": "03080199",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000018",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000033",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000043",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000026",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000012",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "文萃南街",
+    "areaname": "BC95试制",
+    "terminalAdd": "36000023",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "新野桑德水务公司",
+    "areaname": "春天花园",
+    "terminalAdd": "0377000D",
+    "expectnum": 224,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "0377000D",
+    "terminal_name": "0377000D"
+  },
+  {
+    "deptname": "新野桑德水务公司",
+    "areaname": "春天花园",
+    "terminalAdd": "0377000C",
+    "expectnum": 215,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "0377000C",
+    "terminal_name": "0377000C"
+  },
+  {
+    "deptname": "昆仑燃气",
+    "areaname": "昆仑测试气表",
+    "terminalAdd": "00000110",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "正源街",
+    "areaname": "生产线",
+    "terminalAdd": "18000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "正源街",
+    "areaname": "生产线",
+    "terminalAdd": "20180801",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "水电系统",
+    "areaname": "11",
+    "terminalAdd": "0943000A",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "11",
+    "terminal_name": "11"
+  },
+  {
+    "deptname": "江油天一自来水公司",
+    "areaname": "宁光Lora",
+    "terminalAdd": "0473004E",
+    "expectnum": 5,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "0473004E",
+    "terminal_name": "0473004E"
+  },
+  {
+    "deptname": "河南周口",
+    "areaname": "周口试挂",
+    "terminalAdd": "03077719",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "宁光尉氏试制区",
+    "terminalAdd": "00000000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00201809",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000704",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000903",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "10080000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00095101",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00125812",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000910",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00126666",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "11125844",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "宁光尉氏试制区",
+    "terminalAdd": "00082642",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "资质",
+    "terminalAdd": "00090615",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "宁光尉氏试制区",
+    "terminalAdd": "00000955",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "10080001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000909",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000901",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000908",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000902",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "10080002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00185408",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00185405",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00185406",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00125833",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00185407",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000904",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00000905",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏",
+    "areaname": "研发部系统室",
+    "terminalAdd": "00185402",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "河南尉氏lora表",
+    "areaname": "祥泰小区",
+    "terminalAdd": "03780012",
+    "expectnum": 10,
+    "actualnum": 11,
+    "sucessrate": 110,
+    "terminalName": "037800018",
+    "terminal_name": "037800018"
+  },
+  {
+    "deptname": "河南尉氏lora表",
+    "areaname": "星辰幼儿园对面",
+    "terminalAdd": "03780011",
+    "expectnum": 31,
+    "actualnum": 32,
+    "sucessrate": 103.23,
+    "terminalName": "037800017",
+    "terminal_name": "037800017"
+  },
+  {
+    "deptname": "河南尉氏lora表",
+    "areaname": "交通旅社",
+    "terminalAdd": "0378000A",
+    "expectnum": 51,
+    "actualnum": 52,
+    "sucessrate": 101.96,
+    "terminalName": "0378000A",
+    "terminal_name": "0378000A"
+  },
+  {
+    "deptname": "河南尉氏lora表",
+    "areaname": "温泉名苑北",
+    "terminalAdd": "03780001",
+    "expectnum": 19,
+    "actualnum": 18,
+    "sucessrate": 94.74,
+    "terminalName": "03780001",
+    "terminal_name": "03780001"
+  },
+  {
+    "deptname": "河南濮阳",
+    "areaname": "濮阳",
+    "terminalAdd": "0951271F",
+    "expectnum": 3,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "气表集中器",
+    "terminal_name": "气表集中器"
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "00002211",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201812310016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "2019010203123456",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "1234567899874567",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000181251090577",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201812270001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201812270002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000122603000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "2019010203123457",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201812316817",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "2019010201020001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "1234567899874568",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201901020001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "1234567899874571",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "03000002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "1234567899874566",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201901020201",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201812316816",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "泰尔燃气",
+    "areaname": "信通院一区",
+    "terminalAdd": "0000201901020578",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "00000011",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "03077611",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "23102002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "56789999",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "23102001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "02280002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "03077743",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "03077678",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "03077609",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "02280003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "23102003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "03077662",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "深圳燃气",
+    "areaname": "流量表",
+    "terminalAdd": "23102004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "演示区",
+    "areaname": "宁光系统室",
+    "terminalAdd": "09550058",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09550058",
+    "terminal_name": "09550058"
+  },
+  {
+    "deptname": "甘肃兰州",
+    "areaname": "兰州电信公司",
+    "terminalAdd": "01070263",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃兰州",
+    "areaname": "兰州电信公司",
+    "terminalAdd": "01070264",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃民乐县试挂",
+    "areaname": "民乐县",
+    "terminalAdd": "06188255",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃民乐县试挂",
+    "areaname": "民乐县",
+    "terminalAdd": "06188127",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099648",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01070261",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099646",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099653",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01070262",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099651",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099650",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099647",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099655",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099652",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099645",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099649",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃演示",
+    "areaname": "甘肃演示",
+    "terminalAdd": "01099644",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "甘肃白银mbus表",
+    "areaname": "白银mbus测试",
+    "terminalAdd": "09430025",
+    "expectnum": 4,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "热量表",
+    "terminal_name": "热量表"
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "新塬村居民院内",
+    "terminalAdd": "06000058",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "七营老文化站后(烽火台南)",
+    "terminalAdd": "06000051",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "七营派出所南片区",
+    "terminalAdd": "06000026",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "杨山三队清真寺旁",
+    "terminalAdd": "06000027",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "下杨堡清真寺旁",
+    "terminalAdd": "06000024",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电信测试区",
+    "areaname": "二道南坪移民安置点",
+    "terminalAdd": "06000055",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "电力能源系统",
+    "areaname": "甘肃环县樊家川作业区",
+    "terminalAdd": "1200F433",
+    "expectnum": 160,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "1200F433",
+    "terminal_name": "1200F433"
+  },
+  {
+    "deptname": "电表系统",
+    "areaname": "电表测试",
+    "terminalAdd": "10000002",
+    "expectnum": 3,
+    "actualnum": 2,
+    "sucessrate": 66.67,
+    "terminalName": "10000002",
+    "terminal_name": "10000002"
+  },
+  {
+    "deptname": "车间测电磁阀",
+    "areaname": "宁光车间",
+    "terminalAdd": "09430017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "05053052",
+    "terminal_name": "05053052"
+  },
+  {
+    "deptname": "辽宁沈阳样表",
+    "areaname": "沈阳",
+    "terminalAdd": "03077669",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "辽宁沈阳样表",
+    "areaname": "沈阳",
+    "terminalAdd": "03077723",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "辽宁沈阳样表",
+    "areaname": "沈阳",
+    "terminalAdd": "03077641",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "钟大磊&马鑫专用",
+    "areaname": "系统室专用",
+    "terminalAdd": "01100404",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "长城水务公司",
+    "areaname": "第二批",
+    "terminalAdd": "18100014",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西",
+    "areaname": "汉中",
+    "terminalAdd": "01070257",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西",
+    "areaname": "汉中",
+    "terminalAdd": "01070256",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西",
+    "areaname": "汉中",
+    "terminalAdd": "01070258",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西",
+    "areaname": "汉中",
+    "terminalAdd": "01070260",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西城市燃气",
+    "areaname": "陕西城市",
+    "terminalAdd": "12010601",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西城市燃气",
+    "areaname": "陕西城市",
+    "terminalAdd": "03077739",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西城市燃气",
+    "areaname": "陕西城市",
+    "terminalAdd": "03077720",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西城市燃气",
+    "areaname": "陕西城市",
+    "terminalAdd": "03077700",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西安康",
+    "areaname": "安康",
+    "terminalAdd": "18200001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "陕西安康岚皋县",
+    "areaname": "岚皋县自来水公司",
+    "terminalAdd": "09510007",
+    "expectnum": 6,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09510007",
+    "terminal_name": "09510007"
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100022",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "例行测试",
+    "terminalAdd": "18200011",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100021",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "88888882",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯试制",
+    "terminalAdd": "03077737",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077690",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077671",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80018039",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80012266",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077697",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077721",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "09030001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059827",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080011",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080021",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077726",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077732",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "09199999",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "07100016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03121112",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03090001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07260002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077612",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100026",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100023",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "07100001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077724",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯试制",
+    "terminalAdd": "03077729",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "05100049",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "07100032",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "07100008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077744",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077750",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077668",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077749",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07230002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077653",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059995",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059940",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077707",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077704",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077728",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080018",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "09105105",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "24000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01100403",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12201220",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200405",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03116817",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100014",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "08010001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077605",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300010",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100011",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "88888884",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "08010002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077711",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077748",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室测试",
+    "terminalAdd": "03077667",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室测试",
+    "terminalAdd": "03077684",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80016349",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "09040001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140502",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "00000003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077736",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080022",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077716",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10250401",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100033",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100020",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100018",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080020",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200404",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03110102",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "12110610",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140507",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08081122",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01100002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01100001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140501",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077621",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100038",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100034",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077735",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "88888883",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100024",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077656",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077663",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077664",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077680",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077682",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077623",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "18003000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "80059902",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059919",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080014",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077725",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077699",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077734",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100025",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "34567899",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "12340001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077688",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "09105101",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100012",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03110101",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200407",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200401",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "19000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07250001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07260003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "08010003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077722",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "例行测试",
+    "terminalAdd": "18200003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "陕西汉中演示",
+    "terminalAdd": "03077608",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077616",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "03077715",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080015",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077706",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077709",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077633",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077710",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080013",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "08080012",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "09105104",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077622",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "11090001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "12070000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "11090004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140504",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "例行测试",
+    "terminalAdd": "18200019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100028",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "88888881",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07260001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077727",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077747",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077661",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室测试",
+    "terminalAdd": "03077681",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077679",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80018619",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077683",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "07190004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "09048888",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "09180001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80003851",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "12340002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "12340003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "00000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "08080002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077714",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077740",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077686",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03111111",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "高挂表",
+    "terminalAdd": "03110001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100027",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "09105102",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200408",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200409",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01100402",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "36000029",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "12110608",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01100401",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140505",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "例行测试",
+    "terminalAdd": "18200008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "例行测试",
+    "terminalAdd": "18200020",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07190003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077746",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07310001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077733",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "07261111",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077685",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059834",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059865",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "08080010",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077738",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077713",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077695",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "09105103",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200403",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "刘工",
+    "terminalAdd": "03080189",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "新平台燃气",
+    "terminalAdd": "01101315",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140503",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12140506",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200402",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100013",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077606",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "10220004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07100029",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "06300005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07230006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "07100037",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "07230001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "99999999",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077673",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "07100015",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077689",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077672",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077670",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077652",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077613",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "03077705",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077741",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "80059841",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "80008962",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "哈纳斯生产系统",
+    "terminalAdd": "03077745",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077717",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "电信-BC95",
+    "terminalAdd": "03077696",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "NBIot演示",
+    "terminalAdd": "07100036",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "测试",
+    "terminalAdd": "03077742",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "系统室",
+    "terminalAdd": "12071019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "温补NB-IoT燃气表",
+    "terminalAdd": "12110609",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "大视窗新防暴方案",
+    "terminalAdd": "12200406",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光",
+    "areaname": "功能测试室",
+    "terminalAdd": "11090003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光LoRa",
+    "areaname": "演示区",
+    "terminalAdd": "00171202",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光LoRa",
+    "areaname": "演示区",
+    "terminalAdd": "05040003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光LoRa",
+    "areaname": "演示区",
+    "terminalAdd": "095104D3",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "mbus热表集中器",
+    "terminal_name": "mbus热表集中器"
+  },
+  {
+    "deptname": "隆基宁光LoRa",
+    "areaname": "演示区",
+    "terminalAdd": "10000003",
+    "expectnum": 3,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "隆基宁光NB",
+    "areaname": "电表演示",
+    "terminalAdd": "00000004",
+    "expectnum": 1,
+    "actualnum": 1,
+    "sucessrate": 100,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "隆基宁光NB",
+    "areaname": "nb气表演示",
+    "terminalAdd": "01071404",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光NB",
+    "areaname": "nb水表演示",
+    "terminalAdd": "50156095",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光NB",
+    "areaname": "nb气表演示",
+    "terminalAdd": "03080210",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "01110002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "06000060",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "05160001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "09160001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "11110001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "06000054",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "20000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "05160004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "09250000",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "06000019",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖演示水表",
+    "terminalAdd": "20000003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_月牙湖",
+    "areaname": "月牙湖",
+    "terminalAdd": "05160002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077655",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077698",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077654",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077643",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077703",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光_电信移动",
+    "areaname": "电信移动区",
+    "terminalAdd": "03077640",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137848",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "11020001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "01145284",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10002427",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "11000772",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "00016801",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "06000015",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "02043807",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "09060001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137843",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10007002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "乌海试挂",
+    "terminalAdd": "01068709",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "南非试制",
+    "terminalAdd": "00000988",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "06080003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "55555555",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "04380306",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "20000002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290009",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10019862",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10014467",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "11000625",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "11000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "平罗试挂",
+    "terminalAdd": "01067603",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "06080002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "00000666",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "09060002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "00016806",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "平罗试挂",
+    "terminalAdd": "18200018",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110008",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137847",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "09290005",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137842",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "05040015",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "LGW-NHSQ02测试",
+    "terminalAdd": "02270001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "50156122",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "50156104",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "05160003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10100001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290006",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "12210001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137846",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "35017798",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "山西试挂",
+    "terminalAdd": "18200013",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "山西试挂",
+    "terminalAdd": "01070259",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "平罗试挂",
+    "terminalAdd": "01068721",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "00016807",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "10110003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10019276",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10019965",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "11000002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "02043810",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "平罗试挂",
+    "terminalAdd": "01068727",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "06000014",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "06000025",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "18010001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "10160003",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "10160002",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5HB版本测试",
+    "terminalAdd": "01020001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "11000570",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "华为认证临时测试",
+    "terminalAdd": "10002454",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "03210001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "18200010",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "南非试制",
+    "terminalAdd": "00000996",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "01000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "05040017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "04000001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "10160004",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "01137844",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "10160001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "50152499",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "03220001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "00010388",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "00680016",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "NB-iot信号检测",
+    "terminalAdd": "06000059",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "06080001",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "02043813",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": " 电信光电阀控测试",
+    "terminalAdd": "11291111",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "BC96B5JB版本测试",
+    "terminalAdd": "09290007",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "隆基宁光平罗系统",
+    "areaname": "研发部",
+    "terminalAdd": "00000012",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": null,
+    "terminal_name": null
+  },
+  {
+    "deptname": "青海德令哈灌溉区",
+    "areaname": "自来水家属院",
+    "terminalAdd": "09770002",
+    "expectnum": 3,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09770002",
+    "terminal_name": "09770002"
+  },
+  {
+    "deptname": "青海德令哈灌溉区",
+    "areaname": "管理所小区",
+    "terminalAdd": "09770001",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09770001",
+    "terminal_name": "09770001"
+  },
+  {
+    "deptname": "靖远煤电测试",
+    "areaname": "靖远测试(结算)",
+    "terminalAdd": "09430006",
+    "expectnum": 9,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器(结算)",
+    "terminal_name": "电表集中器(结算)"
+  },
+  {
+    "deptname": "靖远煤电测试",
+    "areaname": "靖远测试(结算)",
+    "terminalAdd": "09510003",
+    "expectnum": 5,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09510003",
+    "terminal_name": "09510003"
+  },
+  {
+    "deptname": "靖远煤电测试",
+    "areaname": "靖远测试(结算)",
+    "terminalAdd": "09516666",
+    "expectnum": 13,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器(宁光)",
+    "terminal_name": "水表集中器(宁光)"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514732",
+    "expectnum": 2,
+    "actualnum": 2,
+    "sucessrate": 100,
+    "terminalName": "红会电信局",
+    "terminal_name": "红会电信局"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514733",
+    "expectnum": 1,
+    "actualnum": 1,
+    "sucessrate": 100,
+    "terminalName": "电表集中器(救护队)",
+    "terminal_name": "电表集中器(救护队)"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514719",
+    "expectnum": 18,
+    "actualnum": 3,
+    "sucessrate": 16.67,
+    "terminalName": "红会菜市场",
+    "terminal_name": "红会菜市场"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "王家山(电)",
+    "terminalAdd": "99430011",
+    "expectnum": 86,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "总机厂(电)",
+    "terminalAdd": "99430016",
+    "expectnum": 6,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "2000吨(水)",
+    "terminalAdd": "99430023",
+    "expectnum": 364,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "0951472B",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器(红会2)",
+    "terminal_name": "电表集中器(红会2)"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514735",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": " 红会煤管站",
+    "terminal_name": " 红会煤管站"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09430003",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "农业水(水)",
+    "terminalAdd": "99430029",
+    "expectnum": 3,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "局二区(水)",
+    "terminalAdd": "99430030",
+    "expectnum": 70,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "八泵站(水)",
+    "terminalAdd": "99430020",
+    "expectnum": 29,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "长西路(水)",
+    "terminalAdd": "99430022",
+    "expectnum": 515,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514736",
+    "expectnum": 3,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "红会工区",
+    "terminal_name": "红会工区"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514731",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "红会大坝口泵房",
+    "terminal_name": "红会大坝口泵房"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "魏家地(水)",
+    "terminalAdd": "99430031",
+    "expectnum": 13,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会片(电)",
+    "terminalAdd": "99430009",
+    "expectnum": 172,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "魏家地(电)",
+    "terminalAdd": "99430014",
+    "expectnum": 25,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "铁路北(水)",
+    "terminalAdd": "99430026",
+    "expectnum": 522,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "周家地(电)",
+    "terminalAdd": "99430012",
+    "expectnum": 502,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514738",
+    "expectnum": 5,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "红会农行",
+    "terminal_name": "红会农行"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514739",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "红会废品站（银地）",
+    "terminal_name": "红会废品站（银地）"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "04730060",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "Lora水表集中器",
+    "terminal_name": "Lora水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09430004",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "电力路(水)",
+    "terminalAdd": "99430024",
+    "expectnum": 261,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "旱平川(电)",
+    "terminalAdd": "99430010",
+    "expectnum": 322,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "大水头(电)",
+    "terminalAdd": "99430013",
+    "expectnum": 253,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "宝积山(电)",
+    "terminalAdd": "99430015",
+    "expectnum": 4,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红旗山(电)",
+    "terminalAdd": "99430017",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "电表集中器",
+    "terminal_name": "电表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514737",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "红会工区（采暖）",
+    "terminal_name": "红会工区（采暖）"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "1000吨(水)",
+    "terminalAdd": "99430032",
+    "expectnum": 201,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "七泵房(水)",
+    "terminalAdd": "99430028",
+    "expectnum": 77,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "科研测试",
+    "terminalAdd": "09510459",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09510459",
+    "terminal_name": "09510459"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "0951473A",
+    "expectnum": 2,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "贸易公司",
+    "terminal_name": "贸易公司"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "旱平川(水)",
+    "terminalAdd": "99430021",
+    "expectnum": 323,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红会测试",
+    "terminalAdd": "09514730",
+    "expectnum": 1,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "09514730",
+    "terminal_name": "09514730"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "红片区(水)",
+    "terminalAdd": "99430025",
+    "expectnum": 194,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  },
+  {
+    "deptname": "靖远煤电集团",
+    "areaname": "王家山(水)",
+    "terminalAdd": "99430027",
+    "expectnum": 33,
+    "actualnum": 0,
+    "sucessrate": 0,
+    "terminalName": "水表集中器",
+    "terminal_name": "水表集中器"
+  }
+]
