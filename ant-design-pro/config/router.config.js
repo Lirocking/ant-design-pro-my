@@ -258,7 +258,7 @@ export default [
       // my demo
       {
         path: '/mydemo',
-        name: 'mydemo',
+        name: '监测页',
         icon: 'wechat',
         routes: [
           {

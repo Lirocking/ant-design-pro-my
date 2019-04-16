@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { PureComponent } from 'react';
 import ReactDOM from 'react-dom';
 // 引入 ECharts 主模块
 import echarts from 'echarts/lib/echarts';
@@ -19,17 +19,29 @@ import MeterReadList from './modules/MeterReadList';
 import MeterMapList from './modules/MeterMapList';
 import GridContent from '@/components/PageHeaderWrapper/GridContent';
 import NumberInfo from '@/components/NumberInfo';
-import CountDown from '@/components/CountDown';
+import MeterDaylyEvent from './modules/MeterDaylyEvent';
+// import CountDown from '@/components/CountDown';
 import { Pie, WaterWave, Gauge, TagCloud } from '@/components/Charts'; // 图标样式
 import styles from './Monitor.less';
 
-const targetTime = new Date().getTime() + 3900000;
+// 当前时间
+const targetTime = new Date().toLocaleDateString();
+
+/**
+ * 设置起始时间为当前日期减30天
+ */
+const startTime = () => {
+  const now = new Date();
+  const now2 = new Date(now);
+  now2.setDate(now.getDate() - 30);
+  return now2.toLocaleDateString();
+};
 
 @connect(({ monitor, loading }) => ({
   monitor,
   loading: loading.models.monitor,
 }))
-class EchartsTest extends Component {
+class EchartsTest extends PureComponent {
   componentDidMount() {
     const { dispatch } = this.props;
     dispatch({
@@ -51,24 +63,24 @@ class EchartsTest extends Component {
         <GridContent>
           <Row gutter={24}>
             <Col xl={18} lg={24} md={24} sm={24} xs={24} style={{ marginBottom: 24 }}>
-              <Card title="Test1" bordered={false}>
+              <Card title="事件告警定位" bordered={false}>
                 <Row>
                   <Col md={6} sm={12} xs={24}>
                     <NumberInfo
-                      subTitle="交易总额"
-                      suffix="元"
-                      total={numeral(124543233).format('0,0')}
+                      subTitle="本月事件上报总数"
+                      suffix="次"
+                      total={numeral(1056022).format('0,0')}
                     />
                   </Col>
                   <Col md={6} sm={12} xs={24}>
-                    <NumberInfo subTitle="销售目标完成率" total="92%" />
+                    <NumberInfo subTitle="统计周期起始时间" total={startTime()} />
                   </Col>
                   <Col md={6} sm={12} xs={24}>
-                    <NumberInfo subTitle="起始时间" total={<CountDown target={targetTime} />} />
+                    <NumberInfo subTitle="统计周期结束时间" total={targetTime} />
                   </Col>
                   <Col md={6} sm={12} xs={24}>
                     <NumberInfo
-                      subTitle="每秒上报"
+                      subTitle="当天上报"
                       suffix="元"
                       total={numeral(234).format('0,0')}
                     />
@@ -128,12 +140,15 @@ class EchartsTest extends Component {
             </Col>
             <Col xl={6} lg={12} sm={24} xs={24} style={{ marginBottom: 24 }}>
               <Card
-                title="Test"
+                title="数据上报地区统计"
                 loading={loading}
                 bordered={false}
                 bodyStyle={{ overflow: 'hidden' }}
               >
-                <TagCloud data={tags} height={161} />
+                <TagCloud 
+                  data={tags} 
+                  height={161} 
+                />
               </Card>
             </Col>
             <Col xl={6} lg={12} sm={24} xs={24} style={{ marginBottom: 24 }}>
@@ -142,6 +157,14 @@ class EchartsTest extends Component {
               </Card>
             </Col>
           </Row>
+          <Row gutter={24}>
+            <Col xl={18} lg={24} md={24} sm={24} xs={24} style={{ marginBottom: 24 }}>
+              <Card title="Test" bodyStyle={{ textAlign: 'center', fontSize: 0 }} bordered={false}>
+                <MeterDaylyEvent />
+              </Card>
+            </Col>
+          </Row>
+        
         </GridContent>
       </Carousel>
     );

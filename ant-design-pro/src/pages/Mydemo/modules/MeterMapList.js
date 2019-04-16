@@ -1,17 +1,16 @@
 // 引入 ECharts 主模块
 import echarts from 'echarts/lib/echarts';
 // 引入提示框和标题组件
-import 'echarts/lib/component/tooltip';
-import 'echarts/lib/component/title';
-import 'echarts-gl';
-import 'echarts/map/js/china';
+// import 'echarts/lib/component/tooltip';
+// import 'echarts/lib/component/title';
+// import 'echarts-gl';
+// import 'echarts/map/js/china';
 import ReactEchartsCore from 'echarts-for-react/lib/core';
 
 // 引入echarts主题
 import React, { Component } from 'react';
-import echartsTheme from './chalk';
 // import MeterReadItem from './MeterReadItem';
-import styles from './index.less';
+// import styles from './index.less';
 
 class MeterMapList extends Component {
   state = {
@@ -19,8 +18,6 @@ class MeterMapList extends Component {
   };
 
   componentDidMount() {
-    echarts.registerTheme('theme', echartsTheme);
-
     // const myChart = echarts.init(document.getElementById('mychart'), 'chalk');
     // myChart.setOption({
     //     geo: {
@@ -51,7 +48,7 @@ class MeterMapList extends Component {
     //         max: 200,			// 值域最大值，必须参数
     //         calculable: true,	// 是否启用值域漫游
     //         inRange: {
-    //                  color: ['#50a3ba','#eac736','#d94e5d']
+    //                  color: ['#50a3ba','#eac736','#d94e5d0']
     //                              // 指定数值从低到高时的颜色变化
     //           },
     //         textStyle: {
